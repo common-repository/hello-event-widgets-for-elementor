@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hello Event Elementor Widgets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-23 08:58+0000\n"
+"PO-Revision-Date: 2024-08-14 20:21+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.10; wp-6.5.4\n"
+"X-Domain: hello-event"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-add-to-calendar.php:53
+msgid "Add to calendar"
+msgstr "Ajouter au calendrier"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-ticket.php:54
+msgid "Button"
+msgstr "Bouton"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-add-to-calendar.php:93
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-ticket.php:103
+msgid "Button background color"
+msgstr "Couleur bouton arrière-plan"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-add-to-calendar.php:105
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-ticket.php:115
+msgid "Button background color on hover"
+msgstr "Couleur bouton arrière-plan au survol"
+
+#. Author of the plugin
+msgid "Christer Fernstrom"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-add-to-calendar.php:62
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-map.php:51
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-info.php:71
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-thumbnail.php:51
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-ticket.php:72
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-title.php:69
+msgid "Class"
+msgstr "Classe"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-info.php:90
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-title.php:88
+msgid "Color"
+msgstr "Couleur"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-map.php:42
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-info.php:42
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-info.php:62
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-thumbnail.php:42
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-ticket.php:42
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-set-default.php:36
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-title.php:43
+msgid "Content"
+msgstr "Contenu"
+
+#. Description of the plugin
+msgid "Elementor Widgets for the Hello Event plugin"
+msgstr "Widgets Elementor pour le plugin Hello Event"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-info.php:57
+msgid "End date"
+msgstr "Date de fin"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-info.php:59
+msgid "End date and time"
+msgstr "Date et heure de fin"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-info.php:58
+msgid "End time"
+msgstr "Heure de fin"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-ticket.php:64
+msgid "Enter text"
+msgstr "Entrez texte"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-add-to-calendar.php:63
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-map.php:52
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-info.php:72
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-thumbnail.php:52
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-ticket.php:73
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-title.php:70
+msgid "Enter the CSS class"
+msgstr "Renseigner la classe CSS"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-title.php:53
+msgid "Enter the HTML tag"
+msgstr "Renseigner la balise HTML"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-set-default.php:47
+#| msgid "Enter the post id of an event to display during edit"
+msgid "Enter the slug or the post id of an event to display during edit"
+msgstr ""
+"Entrez le slug ou l'identifiant d'un événement à afficher dans l'éditeur"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-set-default.php:46
+msgid "Event"
+msgstr "Evénement"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-info.php:61
+msgid "Excerpt"
+msgstr "Résumé"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/hello-event-widgets-for-elementor.php:74
+msgid "Hello Event"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-add-to-calendar.php:21
+msgid "Hello Event Add to Calendar"
+msgstr "Hello Event ajouter au calendrier"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-info.php:21
+msgid "Hello Event Info"
+msgstr "Hello Event information"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-map.php:21
+msgid "Hello Event Map"
+msgstr "Hello Event carte"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-set-default.php:14
+msgid "Hello Event Set Default"
+msgstr "Hello Event événement par défaut"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-thumbnail.php:21
+msgid "Hello Event Thumbnail"
+msgstr "Hello Event vignette"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-ticket.php:21
+msgid "Hello Event Ticket"
+msgstr "Hello Event billet"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-title.php:21
+msgid "Hello Event Title"
+msgstr "Hello Event titre"
+
+#. Name of the plugin
+msgid "Hello Event Widgets For Elementor"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-title.php:52
+msgid "HTML Tag"
+msgstr "Balise HTML"
+
+#. Author URI of the plugin
+msgid "https://www.tekomatik.com/about"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.tekomatik.com/plugins/hello-event"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-info.php:51
+msgid "Information"
+msgstr "Information"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-ticket.php:63
+msgid "Label"
+msgstr "Etiquette"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-ticket.php:53
+msgid "Link"
+msgstr "Lien"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-info.php:60
+msgid "Location"
+msgstr "Lieu"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-info.php:52
+msgid "Select the event information to retrieve"
+msgstr ""
+"\n"
+"Sélectionnez l'information sur l'événement à récupérer"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-ticket.php:51
+msgid "Show as"
+msgstr "Comment afficher"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-info.php:54
+msgid "Start date"
+msgstr "Date de début"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-info.php:56
+msgid "Start date and time"
+msgstr "Date et heure de début"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-info.php:55
+msgid "Start time"
+msgstr "Heure de début"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-add-to-calendar.php:73
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-info.php:82
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-ticket.php:83
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-title.php:80
+msgid "Style"
+msgstr "Style"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-add-to-calendar.php:42
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-add-to-calendar.php:52
+msgid "Text"
+msgstr "Texte"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-add-to-calendar.php:81
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-ticket.php:91
+msgid "Text color"
+msgstr "Couleur de texte"
+
+#: ../../../../../../Programs/PLUGINS/hello-event-widgets-for-elementor/widgets/hello-event-thumbnail.php:60
+msgid "Width"
+msgstr "Largeur"

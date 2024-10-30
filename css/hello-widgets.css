@@ -1,0 +1,64 @@
+
+div.hello-button a {
+  background-color: #DA4453;
+  border: 1px solid black;
+  text-transformation: none;
+  border-radius: 4px;
+  font-size: 1em;
+  padding: 5px 12px;
+  transition background-color 0.3s linear;
+}
+
+div.hello-button:hover {
+  background-color: #DF4958;
+}
+
+div.hello-button a {
+  color: #fff;
+  text-transformation: none;
+  text-decoration: none;
+}
+
+/* When the button is in a form, like in Add To Calendar */
+
+div.event-add-to-calendar.hello-button {
+  margin: 0px;
+  padding: 0px;
+  background-color: transparent;
+  border-color: none;
+  
+}
+div.event-add-to-calendar.hello-button form {
+  padding:0px;
+  margin: 0px;
+  display: inline-block;
+  background-color: none;
+}
+
+div.event-add-to-calendar.hello-button form input[type=submit] {
+  font-size: 1em;
+  color: white;
+  padding: 5px 12px;
+  margin: 0px;
+  background-color: #666;
+  border: 1px solid black;
+  border-radius: 4px;
+  border-color: none;
+  text-transform: none;
+}
+
+div.event-add-to-calendar.hello-button form input[type=submit]:hover {
+  font-size: 1em;
+  margin: 0px;
+  background-color: #888;
+}
+
+div.event-ticket.hello-link a {
+  color: #DA4453;
+}
+
+
+
+/*div.elementor-widget.elementor-widget-hello_event_add_calendar {display: inline-block !important;}
+div.elementor-widget-hello_event_add_calendar div.elementor-widget-container {display: inline-block !important;}
+*/
